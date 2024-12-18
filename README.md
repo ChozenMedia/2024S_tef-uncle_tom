@@ -6,7 +6,7 @@ type: Single
 license: copyleft-nocomm
 ---
 
-> [TEF Chozen Few - Uncle Tom](https://gabalpha.github.io/read-audio/?p=https://github.com/ChozenMedia/2024S_tef-uncle_tom/blob/main/src/tef-uncle-tom-mixdown.mp3)
+> [TEF Chozen Few - Uncle Tom](https://gabalpha.github.io/read-audio/?p=https://raw.github.com/ChozenMedia/2024S_tef-uncle_tom/blob/main/src/tef-uncle-tom-mixdown.mp3)
 
 > ![TEF Chozen Few - Uncle Tom (Single) Cover Art](./src/tef-uncle-tom-cover-art.svg)
 > - Cover designed by @carlitoplatanito
