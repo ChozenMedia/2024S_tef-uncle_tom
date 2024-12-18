@@ -2,10 +2,13 @@
 title: Uncle Tom
 creator: TEF Chozen Few <https://www.tefchozenfew.com>
 release_date: 2024-12-13 15:16
+type: Single
 license: copyleft-nocomm
 ---
 
-> ![TEF Chozen Few - Uncle Tom (Single) Cover Art](./src/tef-uncle-tom-cover.jpeg)
+> ![TEF Chozen Few - Uncle Tom](./src/tef-uncle-tom-mixdown.mp3)
+
+> ![TEF Chozen Few - Uncle Tom (Single) Cover Art](./src/tef-uncle-tom-cover-art.svg)
 > - Cover designed by @carlitoplatanito
 
 # _Uncle Tom_
